@@ -1,0 +1,16 @@
+generated: '2026-10-22'
+method: none
+source:
+- https://zapier.com/apps/orbifold/integrations
+- https://n8n.io/integrations/orbifold/
+- https://composio.dev/toolkits/orbifold
+- https://monid.ai/tools/orbifold
+checked:
+- https://composio.dev/toolkits/orbifold
+- https://monid.ai/tools/orbifold
+- https://n8n.io/integrations/orbifold/
+- https://zapier.com/apps/orbifold/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
